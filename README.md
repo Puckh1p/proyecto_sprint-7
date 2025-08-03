@@ -2,6 +2,12 @@
 
 Esta aplicación web permite visualizar de manera interactiva información sobre anuncios de vehículos usados en Estados Unidos. Fue desarrollada como parte del Proyecto 7 utilizando **Streamlit**, **Pandas** y **Plotly**.
 
+## 🌍 Aplicación desplegada en línea
+
+Puedes acceder a la versión en línea de esta aplicación aquí:
+
+🔗 [https://proyecto-sprint-7-xjx3.onrender.com](https://proyecto-sprint-7-xjx3.onrender.com)
+
 ## 📊 Descripción del proyecto
 
 El objetivo de este proyecto es ofrecer una interfaz sencilla donde el usuario pueda explorar gráficamente el conjunto de datos `vehicles_us.csv`, que contiene información de vehículos como:
