@@ -35,4 +35,4 @@ El objetivo de este proyecto es ofrecer una interfaz sencilla donde el usuario p
 ├── vehicles_us.csv # Conjunto de datos
 ├── .gitignore # Archivos ignorados por Git
 └── notebooks/
-└── EDA.ipynb # Análisis exploratorio inicial
+    └── EDA.ipynb # Análisis exploratorio inicial
